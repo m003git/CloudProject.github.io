@@ -15,7 +15,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-build-aws-vpc"
+            "Value": "del-build-aws-vpc"
           }
         ]
       }
@@ -26,7 +26,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-igw"
+            "Value": "del-igw"
           }
         ]
       }
@@ -61,7 +61,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-subnet-public-a"
+            "Value": "del-subnet-public-a"
           }
         ]
       }
@@ -85,7 +85,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-subnet-public-b"
+            "Value": "del-subnet-public-b"
           }
         ]
       }
@@ -99,7 +99,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-routetable-public"
+            "Value": "del-routetable-public"
           }
         ]
       }
@@ -157,7 +157,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-subnet-private-a"
+            "Value": "del-subnet-private-a"
           }
         ]
       }
@@ -180,7 +180,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "edx-subnet-private-b"
+            "Value": "del-subnet-private-b"
           }
         ]
       }
