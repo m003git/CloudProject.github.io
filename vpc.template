@@ -1,5 +1,5 @@
 {
-  "Description": "Building on AWS VPC",
+  "Description": "AWS VPC",
   "Mappings": {
     "AWSRegionToAMI": {
       "ap-southeast-2": {
