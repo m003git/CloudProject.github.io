@@ -2,8 +2,8 @@
   "Description": "Building on AWS VPC",
   "Mappings": {
     "AWSRegionToAMI": {
-      "us-west-2": {
-        "AMI": "ami-32cf7b4a"
+      "ap-southeast-2": {
+        "AMI": "ami-06202e06492f46177"
       }
     }
   },
